@@ -12,7 +12,7 @@ public class ChecadaVsNaoChecada01 {
 			System.out.println(e.getMessage());
 		}
 		
-		System.out.println("Fim :)");
+		System.out.println("Fim ;)");
 	}
 	
 	// Exceção NÃO checada ou NÃO verificada
